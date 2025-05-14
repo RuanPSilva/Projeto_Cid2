@@ -9,8 +9,8 @@ create table usuario(
 );
 create table produtos(
 	idProd int primary key auto_increment,
-	nome varchar(50),
-	descrição varchar(100),
+	nomeProd varchar(50),
+	descricao varchar(100),
 	preco decimal (10,2)		
 	quantidade int,
 );
