@@ -1,0 +1,8 @@
+create database ProjetoCidade2;
+use ProjetoCidade2;
+
+create table produtos(
+	id int primary key auto_increment,
+    descricao varchar(100),
+	quantidade varchar(10)
+);

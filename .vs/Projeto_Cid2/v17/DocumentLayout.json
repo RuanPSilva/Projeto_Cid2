@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T22:26:34.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
