@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h1>Cadastrar Produto</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Cadastrar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="idProd" class="control-label"></label>
+                <input asp-for="idProd" class="form-control" />
+                <span asp-validation-for="idProd" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="descricao" class="control-label"></label>
+                <input asp-for="descricao" class="form-control" />
+                <span asp-validation-for="descricao" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="preco" class="control-label"></label>
+                <input asp-for="preco" class="form-control" />
+                <span asp-validation-for="preco" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="quantidade" class="control-label"></label>
+                <input asp-for="quantidade" class="form-control" />
+                <span asp-validation-for="quantidade" class="text-danger"></span>
+            </div>
+
+            <div class="btn">
+                <div class="form-group">
+                    <a asp-action="Index" class="btn btn-success">Voltar</a>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="cadastrar" class="btn btn-primary" />
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
