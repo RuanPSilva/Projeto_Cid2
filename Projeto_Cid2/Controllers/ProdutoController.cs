@@ -24,7 +24,7 @@ namespace Projeto_Cid2.Controllers
         }
 
         [HttpPost]
-        public IActionResult CadastrarProduto(produto produto)
+        public IActionResult CadastrarProduto(Produto produto)
         {
             _produtoRepositorio.Cadastrar(produto);
             return RedirectToAction(nameof(Index));
@@ -41,7 +41,7 @@ namespace Projeto_Cid2.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult EditarProduto(int id, [Bind("idprod, nomeprod, descricao, preco")] produto produto)
+        public IActionResult EditarProduto(int id, [Bind("idprod, nomeprod, descricao, preco")] Produto produto)
         {
             if (id != produto.idProd)
             {
@@ -67,7 +67,7 @@ namespace Projeto_Cid2.Controllers
 
         public IActionResult ExcluirProduto(int id)
         {
-            _produtoRepositorio.Excluir(id);
+            _produtoRepositorio.ExcluirProduto(id);
 
             return RedirectToAction(nameof(Index));
         }

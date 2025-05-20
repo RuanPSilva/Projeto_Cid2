@@ -3,60 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|c:\\users\\2bmod\\desktop\\projeto_cid2\\projeto_cid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4D98CE-DB45-40AF-B1D4-37A1D05FFE3A}|Projeto_Cid2\\Projeto_Cid2.csproj|solutionrelative:projeto_cid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,176 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Program.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Program.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Program.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:16:01.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\appsettings.json",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\appsettings.json",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\appsettings.json",
-              "RelativeToolTip": "Projeto_Cid2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T23:06:53.607Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "Projeto_Cid2\\Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T00:10:52.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Produto\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Produto\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Produto\\Cadastrar.cshtml",
-              "RelativeToolTip": "Projeto_Cid2\\Views\\Produto\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T22:59:32.042Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Produto\\Editar.cshtml",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Produto\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Produto\\Editar.cshtml",
-              "RelativeToolTip": "Projeto_Cid2\\Views\\Produto\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T22:59:07.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Produto\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Produto\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Produto\\Index.cshtml",
-              "RelativeToolTip": "Projeto_Cid2\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T22:31:25.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "Projeto_Cid2\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T22:29:09.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "produto.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Models\\produto.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Models\\produto.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Models\\produto.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Models\\produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:32:50.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Repositorio\\LoginRepositorio.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Repositorio\\LoginRepositorio.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Repositorio\\LoginRepositorio.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Repositorio\\LoginRepositorio.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T22:22:44.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Repositorio\\ProdutoRepositorio.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T23:32:57.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwDwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T23:37:36.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "usuario.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Models\\usuario.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Models\\usuario.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Models\\usuario.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Models\\usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:34:56.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Projeto_Cid2\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Projeto_Cid2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:24:55.274Z"
+              "WhenOpened": "2025-05-20T00:05:05.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Projeto_Cid2\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Projeto_Cid2\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto_Cid2\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Projeto_Cid2\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T23:38:12.078Z"
+              "WhenOpened": "2025-05-20T00:04:30.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Cid2\\Program.cs",
+              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Program.cs",
+              "RelativeToolTip": "Projeto_Cid2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:04:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Projeto_Cid2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T22:33:25.432Z"
+              "WhenOpened": "2025-05-20T00:02:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Projeto_Cid2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\2bmod\\Desktop\\Projeto_Cid2\\Projeto_Cid2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Projeto_Cid2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:58:46.638Z",
+              "EditorCaption": ""
             }
           ]
         }

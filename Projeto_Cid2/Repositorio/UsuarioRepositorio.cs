@@ -7,7 +7,7 @@ using System.Data;
 namespace Projeto_Cid2.Repositorio
 {
     
-    public class LoginRepositorio(IConfiguration configuration)
+    public class UsuarioRepositorio(IConfiguration configuration)
     {
        
         private readonly string _conexaoMySQL = configuration.GetConnectionString("conexaoMySQL");

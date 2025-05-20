@@ -1,16 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Projeto_Cid2.Repositorio;
+
 namespace Projeto_Cid2.Controllers
 {
     public class UsuarioController : Controller
     {
         
-        public class LoginController : Controller
-        {
-            private readonly LoginRepositorio _usuarioRepositorio;
+            private readonly UsuarioRepositorio _usuarioRepositorio;
 
             
-            public LoginController(LoginRepositorio usuarioRepositorio)
+            public UsuarioController(UsuarioRepositorio usuarioRepositorio)
             {             
                 _usuarioRepositorio = usuarioRepositorio;
             }
@@ -33,7 +32,7 @@ namespace Projeto_Cid2.Controllers
                 if (usuario != null && usuario.senha == senha)
                 {
                     
-                    return RedirectToAction("Index", "Produto");
+                    return RedirectToAction("Login", "Usuario");
                 }
                
                 ModelState.AddModelError("", "Algo está errado, verifique novamente!!.");
@@ -42,4 +41,4 @@ namespace Projeto_Cid2.Controllers
             }
         }
     }
-}
+
